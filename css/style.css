@@ -1,0 +1,155 @@
+body{
+    text-align: center;
+    background-color: #fcf4dd;
+    margin: 0;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    min-height: 950px;}
+.cloud1{
+    position: absolute;
+    right: 50px;
+    top: 30px;
+    width: 300px;
+    height: 100px;}
+.cloud2{
+    position: absolute;
+    left: 50px;
+    top: 350px;
+    bottom: 50px;
+    width: 300px;
+    height: 100px;}
+.banner2{
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    height: 550px;
+    width: 650px;}
+
+
+.middle-container1{
+    margin: 100px 0;}
+.img-me{
+    width: 200px;
+    height: 200px;
+    border: 3px solid darkgray;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    border-radius: 50%;}
+.aboutme{
+    text-align: center;
+    width: 70%;
+    margin-left: 200px;}
+
+
+.middle-container2{
+    padding-top: 20px;
+    height: auto;}
+.hobi{
+    color: #F08080;}
+.img-ps, .img-book{
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-left: 220px;}
+.img-pencil, .img-game{
+    width: 120px;
+    height: 120px;
+    float: right;
+    margin-right: 220px;}
+.desain, .read{
+    text-align: left;
+    width: 40%;
+    margin: 100px auto 100px auto;
+    margin-top: 30px;
+    margin-left: 400px;}
+.write, .videogame{
+    text-align: right;
+    width: 40%;
+    margin: 100px auto 100px auto;
+    margin-top: 30px;
+    margin-right: 400px;}
+
+
+.middle-container3{
+    height: auto;
+padding-bottom: 20px;}
+.contact a{
+    background-color: #fcf4dd;
+    color: #F08080;
+    border: 2px solid darkgray;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    padding: 10px 20px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;}
+.contact a:hover{
+    background-color: #F08080;
+    color: white;}
+
+
+.bottom-container{
+    background-color: #F08080;
+    height: auto;
+    padding-bottom: 20px;}
+.bottom-container p{
+    color: white;
+    padding-top: 20px;}
+a{
+    color: navy;
+    text-decoration: none;}
+a:hover{
+    color: rgb(29, 29, 235);
+}
+.medsos a{
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;}
+.medsos a:hover{
+    background-color: red;
+    color: white;
+}
+
+
+h1{
+    color: #F08080;
+    font-family: 'Pacifico', cursive;
+    font-size: 90px;
+    font-weight: bold;
+}
+h2{
+    color: #F08080;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    font-weight: normal;
+}
+h3{
+    color: #F08080;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+}
+h4{
+    font-family: 'Spectral', serif;
+    color: #F08080;
+    font-size: 30px;
+}
+h5{
+    font-family: 'Spectral', serif;
+    color: gray;
+    font-size: 20px;
+}
+hr{
+    width: 250px;
+    border-top: 3px solid darkgray;
+}
+
+
+
+
+
